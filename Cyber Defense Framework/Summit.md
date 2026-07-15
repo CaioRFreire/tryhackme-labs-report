@@ -152,7 +152,7 @@ The log shows commands like dir, netstat, ipconfig, which are commands used by t
 
 This was the last malware to detect and prevent, at this time, the hacker would spend a lot of time to probably look for another approach of attacking the company.
 
-## 9. Lessons Learned
+## 4. Lessons Learned
 
 - Learned how the Pyramid of Pain increases the operational cost for attackers.
 - Learned how to block malware using hashes.
@@ -162,6 +162,6 @@ This was the last malware to detect and prevent, at this time, the hacker would 
 - Learned how to detect malicious process creation using Sigma rules.
 - Learned how to detect suspicious network connections using Sigma rules.
 
-## 10. References
+## 5. References
 
 https://tryhackme.com/room/summit
